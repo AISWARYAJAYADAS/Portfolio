@@ -1,0 +1,17 @@
+
+.clip-square{
+    clip-path: inset(0 0 0 0);
+}
+
+
+#one+#two{
+    background-color: #c2ce62;
+}
+.last{
+    background-color:#000000;
+}
+
+.col-md-6:first-child {
+    background-color: blue;
+  }
+  
