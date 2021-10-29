@@ -1,17 +1,11 @@
 
-.clip-square{
-    clip-path: inset(0 0 0 0);
-}
-
-
-#one+#two{
-    background-color: #c2ce62;
-}
-.last{
-    background-color:#000000;
-}
-
-.col-md-6:first-child {
-    background-color: blue;
+  h2 {
+    font-family: Lobster, Monospace;
   }
-  
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
